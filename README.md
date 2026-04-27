@@ -218,9 +218,9 @@ L’obiettivo è rendere la valutazione tecnica:
 
 #### Brainstorming 1
 Per prima cosa creo 2 pagine:
-1 Una home page contenente la spegazione all'utente riguardo lo scopo e il funzionamento dell'app prendo i dati dall'api tramite il global context e ne controllo il contenuto, in seguito valuto quale possa essere la UI piu a datta a seconda del contenuto dei dati.
+1 Una home page contenente la spegazione all'utente riguardo lo scopo e il funzionamento dell'app.
 2 Una pagina di visualizzazione dei post senza filtri ne logiche di riordinamento. 
-Una volta che ho la pagina di visualizzazione dei post prendo i dati dall'API e ne controllocil contenuto
+Una volta che ho la pagina di visualizzazione dei post prendo i dati dall'API e ne controllo il contenuto
 In seguto vado a costruire i componenti UI per un riutilizzo facile e veloce degli stessi ma comunque adeguto alla struttura dei dati ottenuti.
 Infine nella pagina di visualizzazione dei post vado ad iserire i post stessi utilizzando i componenti UI creati precedentemente.
 Per ora lascerei in sospeso il form per creare nuovi post, la validazione del form stesso e l'integrazione delle funzionalita facoltative
