@@ -214,7 +214,6 @@ L’obiettivo è rendere la valutazione tecnica:
 
 ## 🚀 briefing before starting
 
-### 1
 
 ### Brainstorming 1
 Per prima cosa creo 2 pagine:
