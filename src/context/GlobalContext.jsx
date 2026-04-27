@@ -13,7 +13,7 @@ const GlobalProvider = ({ children }) => {
     }
 
     useEffect(() => {
-        fetchData("")
+        fetchData("https://jsonplaceholder.typicode.com/posts")
             .then(obj => setDatas(obj))
             .catch(error => console.error(error))
             .finally(console.log("fetch end"))

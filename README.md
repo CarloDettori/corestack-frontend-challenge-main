@@ -225,3 +225,19 @@ In seguto vado a costruire i componenti UI per un riutilizzo facile e veloce deg
 Infine nella pagina di visualizzazione dei post vado ad iserire i post stessi utilizzando i componenti UI creati precedentemente.
 Per ora lascerei in sospeso il form per creare nuovi post, la validazione del form stesso e l'integrazione delle funzionalita facoltative
 
+### Brainstorming 2
+Ho completato gli step espressi nel brainstorming 1 tuttavia sforando di circa 20 min (orario d'inizio 15:28 orario di fine 16:50 + 20 min per la scrittura del feedback finale nel file readme).
+interrompo qui lo svolgimento della challangeper rispettare le direttive temporali espresse nel file readme.
+
+### Cosa ho fatto
+Mi sono principalmente dedicato alla visualizzazione dei post in se tralasciando il form perche ho preferito concentrarmi su una sola funzionalità dell'app in modo da non lasciare nulla a metà (sarebbe stato brutto non avere una pagina di spiegazione per l'utente e due pagine di cui una non terminata, avrebbero potuto confondere un utente inesperto o far storcere il naso ad uno esperto) in questo modo l'app è coerente con se stessa senza funzionalità incomplete
+
+### Cosa non ho fatto
+Ho tralasciato tutte le funzionalita che non riguardavano la visualizzazione dei post, inoltre non ho implementato alcun accorgimanto estetico per ottimizzare il tempo a disposizione
+
+### Compromessi
+Ho utilizzato uno scafolding di react gia pronto creato da me e ho usato anche dei componeti UI gia pronti anch'essi creati da me.
+ho usato anche tailwind CSS per una gestione piu veloce dello styling
+
+### Cosa farei con piu tempo
+I porssimi passi, come gia specificato, saranno: la gestionne dello stato attualmente assente, la creazione del form per l'utente con relativa validazione, integrazione dei task facoltativi ed infine un miglioramento estetico piu uno responsive.

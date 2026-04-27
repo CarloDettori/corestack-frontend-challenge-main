@@ -20,7 +20,7 @@ export default function Header() {
                     )}</NavLink>
                 <NavLink to="/posts" className="mx-5">
                     {({ isActive }) => (
-                        <span className={isActive ? "font-bold underline" : ""}>POST</span>
+                        <span className={isActive ? "font-bold underline" : ""}>POSTS</span>
                     )}</NavLink>
             </nav>
 
